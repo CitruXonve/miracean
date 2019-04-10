@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Sea of Miracle
+title: Miracean
 subtitle: Designs & Sub-Culture Life
 description:
 keywords:
@@ -79,6 +79,5 @@ theme: typescript
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  # repo: https://__DEPLOY_ACCESS_TOKEN__@github.com/CitruXonve/miracean.git
-  repo: https://github.com/CitruXonve/miracean.git
+  repo: https://__DEPLOY_ACCESS_TOKEN__@github.com/CitruXonve/miracean.git
   branch: gh-pages
